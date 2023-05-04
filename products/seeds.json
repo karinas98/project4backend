@@ -1,0 +1,16 @@
+[
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "title": "New Product",
+    "price": "30$",
+    "description": "Description",
+    "img_url": "img.jpeg",
+    "owner": 1,
+    "category": [
+      1
+    ]
+  }
+}
+]
